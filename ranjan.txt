@@ -1,4 +1,3 @@
 1 -hi my name is ranjan 
 2- this is second line	f
-3- adding line third
-4- adding line forth
+3- 4the line removed 3 is modified again
